@@ -1,6 +1,13 @@
 # todo-shrek
 
 
+
+Make a database named shrek
+
+then type npx sequelize-cli db:migrate
+
+
+
 npm install:
 
 1.http
